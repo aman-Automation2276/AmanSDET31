@@ -8,5 +8,7 @@ public class CreateInvoiceTest {
 	public void createInvoice()
 	{
 		System.out.println("User 1 created invoice");
+		
+		System.out.println("user 2 updation");
 	}
 }
